@@ -19,7 +19,7 @@
   	<scm>
 		<url>https://github.com/madouat/DataManagment.git</url>
 		<connection>scm:git:ssh://git@github.com/madouat/DataManagment.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/madouat/DataManagment.git.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@github.com/madouat/DataManagment.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 </project>
